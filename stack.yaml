@@ -1,1 +1,5 @@
+flags: {}
+extra-deps:
+- data-clist-0.1.1.0
+- hgeometry-0.6.0.0
 resolver: lts-8.19
